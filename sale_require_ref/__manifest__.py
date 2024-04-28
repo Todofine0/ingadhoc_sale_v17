@@ -19,7 +19,7 @@
 ##############################################################################
 {
     'name': 'Sale Order Require Reference on Confirmation',
-    'version': "15.0.1.0.0",
+    'version': "17.0.1.0.0",
     'category': 'Projects & Services',
     'sequence': 14,
     'summary': '',

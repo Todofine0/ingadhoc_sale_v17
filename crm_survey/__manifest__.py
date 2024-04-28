@@ -19,7 +19,7 @@
 ##############################################################################
 {
     'name': "CRM SURVEY",
-    'version': "16.0.1.0.0",
+    'version': "17.0.1.0.0",
     'category': 'Human Resources Survey',
     'license': 'AGPL-3',
     'author': 'ADHOC SA',
